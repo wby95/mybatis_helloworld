@@ -1,0 +1,8 @@
+create database mybatis;
+use mybatis;
+create table userTable(
+id int primary key auto_increment,
+name varchar(10),
+password varchar(10)
+);
+insert into  userTable values(1,"wby","123456");
