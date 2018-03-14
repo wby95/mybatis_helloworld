@@ -1,2 +1,2 @@
 # mybatis_helloworld
-mybatis的简单应用
+mybatis的简单应用，主要是熟悉一下mybatis的基本语法&处理流程
